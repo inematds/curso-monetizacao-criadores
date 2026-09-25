@@ -1,0 +1,1253 @@
+[
+  {
+    "titulo": "Escolha um caminho de receita para começar",
+    "entrega": "selecionar um serviço e um público para sua primeira oferta",
+    "dor": "Aprender muitas ferramentas não deixa claro o que alguém pode contratar de você. Um caminho específico ajuda a montar uma entrega verificável.",
+    "antes": "Oferecer qualquer trabalho com IA sem especificar entrega ou público.",
+    "depois": "Escolher um serviço que você sabe produzir para uma necessidade concreta.",
+    "campos": [
+      "Caminho: serviço criativo sob encomenda",
+      "Público: pequenos ateliês",
+      "Entrega: vídeo vertical de produto com 15 segundos"
+    ],
+    "passos": [
+      "Liste os quatro caminhos e escolha um para estudar.",
+      "Defina público, necessidade e serviço que consegue executar.",
+      "Registre uma habilidade ainda necessária ou confirme sua base."
+    ],
+    "pronto": "uma ficha define caminho, público, serviço e capacidade atual",
+    "q": "Qual oferta permite entender o que será entregue?",
+    "opcoes": [
+      "Um vídeo vertical de 15 segundos para apresentar uma peça",
+      "Toda solução de IA possível para qualquer tipo de empresa",
+      "Crescimento garantido sem definir conteúdo ou condições"
+    ],
+    "correta": 0,
+    "observacao": "Rita e Celso planejam com fotografias de um vaso. São personagens e exemplos fictícios, sem contratação real.",
+    "ex1": "Rita escolhe um serviço que consegue demonstrar com arquivos.",
+    "ex2": "Celso quer entender a entrega antes de discutir ferramentas.",
+    "calma": "Se ainda não consegue produzir a peça, mantenha a oferta como estudo. Faça primeiro a prática técnica correspondente.",
+    "confira": "Escolher um serviço que você sabe produzir para uma necessidade concreta.",
+    "tarefa": "Escolha um caminho de receita para começar",
+    "resumo": [
+      "Caminho: serviço criativo sob encomenda",
+      "Público: pequenos ateliês",
+      "Entrega: vídeo vertical de produto com 15 segundos"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Escolha um caminho de receita para começar\nCaminho: serviço criativo sob encomenda — <sua decisão>\nPúblico: pequenos ateliês — <sua decisão>\nEntrega: vídeo vertical de produto com 15 segundos — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Qual oferta permite entender o que será entregue?",
+        "Um vídeo vertical de 15 segundos para apresentar uma peça"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Escolher um serviço que você sabe produzir para uma necessidade concreta."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "uma ficha define caminho, público, serviço e capacidade atual"
+      ]
+    ]
+  },
+  {
+    "titulo": "Traduza o pedido em uma necessidade observável",
+    "entrega": "escrever uma oferta em uma frase sem prometer resultado fora do seu controle",
+    "dor": "O cliente pode pedir algo moderno sem explicar onde usará a peça. Você precisa descobrir a função antes de sugerir efeitos.",
+    "antes": "Prometer vendas porque o vídeo terá efeitos e aparência sofisticada.",
+    "depois": "Descrever a peça e sua função, separando entrega de resultado comercial.",
+    "campos": [
+      "Pergunta: onde, para quê e o que precisa aparecer",
+      "Oferta: público, serviço e utilidade",
+      "Limite: vendas e alcance não são garantidos"
+    ],
+    "passos": [
+      "Responda às três perguntas para o caso ou seu projeto.",
+      "Escreva duas ofertas em uma frase.",
+      "Escolha uma e retire garantias que não consegue cumprir."
+    ],
+    "pronto": "a oferta escolhida descreve público, entrega e utilidade sem garantia falsa",
+    "q": "O cliente quer aumentar vendas. Qual compromisso você pode assumir diretamente?",
+    "opcoes": [
+      "Garantir uma quantidade de vendas sem controlar a operação",
+      "Entregar a peça com critérios, prazo e escopo acordados",
+      "Prometer alcance mínimo sem nenhum contrato de mídia"
+    ],
+    "correta": 1,
+    "observacao": "Celso apresenta o vaso enquanto Rita escuta. A cena ilustra descoberta de necessidade, sem depoimento ou reunião real.",
+    "ex1": "Rita explica para que serve a peça antes de citar o gerador.",
+    "ex2": "Celso identifica a informação que o público precisa enxergar.",
+    "calma": "Se a frase ficar longa, retire adjetivos e preserve público, entrega e uso. Uma proposta detalhada virá depois.",
+    "confira": "Descrever a peça e sua função, separando entrega de resultado comercial.",
+    "tarefa": "Traduza o pedido em uma necessidade observável",
+    "resumo": [
+      "Pergunta: onde, para quê e o que precisa aparecer",
+      "Oferta: público, serviço e utilidade",
+      "Limite: vendas e alcance não são garantidos"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Traduza o pedido em uma necessidade observável\nPergunta: onde, para quê e o que precisa aparecer — <sua decisão>\nOferta: público, serviço e utilidade — <sua decisão>\nLimite: vendas e alcance não são garantidos — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "O cliente quer aumentar vendas. Qual compromisso você pode assumir diretamente?",
+        "Entregar a peça com critérios, prazo e escopo acordados"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Descrever a peça e sua função, separando entrega de resultado comercial."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a oferta escolhida descreve público, entrega e utilidade sem garantia falsa"
+      ]
+    ]
+  },
+  {
+    "titulo": "Defina escopo antes de falar em preço",
+    "entrega": "preencher uma ficha de entregas, revisão e exclusões",
+    "dor": "Um pedido aparentemente simples pode incluir versões, formatos e alterações que ninguém mencionou no começo.",
+    "antes": "Prometer fazer todos os ajustes sem limitar arquivos, duração ou etapas.",
+    "depois": "Definir entregas, rodadas, dependências e exclusões antes de orçar.",
+    "campos": [
+      "Entrega: um MP4 vertical de 15 segundos",
+      "Revisão: uma rodada consolidada",
+      "Exclusões: filmagem, tradução e mídia paga"
+    ],
+    "passos": [
+      "Preencha quantidade, duração, formato e arquivos.",
+      "Defina revisão, prazo e materiais necessários.",
+      "Liste três exclusões e o responsável por aprovar."
+    ],
+    "pronto": "a ficha contém entregas, revisões, dependências e exclusões",
+    "q": "O cliente troca o produto depois de aprovar o roteiro. Qual resposta é adequada?",
+    "opcoes": [
+      "Refazer tudo sem registrar qualquer impacto no trabalho",
+      "Ignorar o pedido sem explicar o escopo acordado",
+      "Avaliar a mudança e combinar prazo e orçamento adicionais"
+    ],
+    "correta": 2,
+    "observacao": "Pastas separadas representam entregas e etapas. O quadro escrito da aula contém o escopo que pode ser conferido.",
+    "ex1": "Rita define o que uma rodada de revisão inclui.",
+    "ex2": "Celso sabe quando precisa aprovar e quais materiais fornecer.",
+    "calma": "Se o escopo ainda estiver incerto, transforme a dúvida em pergunta. Não esconda a falta de informação num preço fechado.",
+    "confira": "Definir entregas, rodadas, dependências e exclusões antes de orçar.",
+    "tarefa": "Defina escopo antes de falar em preço",
+    "resumo": [
+      "Entrega: um MP4 vertical de 15 segundos",
+      "Revisão: uma rodada consolidada",
+      "Exclusões: filmagem, tradução e mídia paga"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Defina escopo antes de falar em preço\nEntrega: um MP4 vertical de 15 segundos — <sua decisão>\nRevisão: uma rodada consolidada — <sua decisão>\nExclusões: filmagem, tradução e mídia paga — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "O cliente troca o produto depois de aprovar o roteiro. Qual resposta é adequada?",
+        "Avaliar a mudança e combinar prazo e orçamento adicionais"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Definir entregas, rodadas, dependências e exclusões antes de orçar."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a ficha contém entregas, revisões, dependências e exclusões"
+      ]
+    ]
+  },
+  {
+    "titulo": "Calcule custos em reais antes de escolher a margem",
+    "entrega": "montar um cálculo simples com horas, despesas e percentuais identificados",
+    "dor": "Copiar um preço sem conhecer seus custos pode transformar um trabalho cheio de entregas numa perda de dinheiro.",
+    "antes": "Somar 20% ao custo e chamar isso automaticamente de margem de 20% sobre a venda.",
+    "depois": "Identificar custos e dividir pelo percentual do preço que resta após reservas.",
+    "campos": [
+      "Custo: 6 × R$ 60 + R$ 90 + R$ 150 = R$ 600",
+      "Reservas fictícias: 10% taxas e 20% margem",
+      "Preço simulado: R$ 600 ÷ 0,70 ≈ R$ 857,14"
+    ],
+    "passos": [
+      "Abra a calculadora e confira os valores fictícios do exemplo.",
+      "Troque uma despesa e observe o efeito no preço.",
+      "Registre quais números seus ainda precisam ser medidos ou confirmados."
+    ],
+    "pronto": "o cálculo foi conferido e as hipóteses estão identificadas",
+    "q": "Qual cálculo reserva 20% de margem e 10% de taxas sobre o preço?",
+    "opcoes": [
+      "Custo dividido por 0,70, neste modelo simplificado",
+      "Custo multiplicado por 1,20 em qualquer situação",
+      "Custo dividido por 1,30 sem considerar as despesas"
+    ],
+    "correta": 0,
+    "observacao": "Rita registra estimativas num caderno enquanto Celso acompanha. A cena ilustra planejamento, sem mostrar cálculo real.",
+    "ex1": "Rita inclui as horas de trabalho na base de custo.",
+    "ex2": "Celso distingue um preço de exercício de uma proposta real.",
+    "calma": "Se não conhece uma despesa, registre estimativa e sua origem. Não coloque zero apenas para conseguir um preço menor.",
+    "confira": "Identificar custos e dividir pelo percentual do preço que resta após reservas.",
+    "tarefa": "Calcule custos em reais antes de escolher a margem",
+    "resumo": [
+      "Custo: 6 × R$ 60 + R$ 90 + R$ 150 = R$ 600",
+      "Reservas fictícias: 10% taxas e 20% margem",
+      "Preço simulado: R$ 600 ÷ 0,70 ≈ R$ 857,14"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Calcule custos em reais antes de escolher a margem\nCusto: 6 × R$ 60 + R$ 90 + R$ 150 = R$ 600 — <sua decisão>\nReservas fictícias: 10% taxas e 20% margem — <sua decisão>\nPreço simulado: R$ 600 ÷ 0,70 ≈ R$ 857,14 — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Qual cálculo reserva 20% de margem e 10% de taxas sobre o preço?",
+        "Custo dividido por 0,70, neste modelo simplificado"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Identificar custos e dividir pelo percentual do preço que resta após reservas."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o cálculo foi conferido e as hipóteses estão identificadas"
+      ]
+    ]
+  },
+  {
+    "titulo": "Compare preços anunciados sem inventar uma tabela universal",
+    "entrega": "analisar três ofertas públicas em reais pelo escopo informado",
+    "dor": "Dois valores podem parecer distantes porque incluem trabalhos e direitos diferentes. O menor número não é uma referência suficiente.",
+    "antes": "Tratar o menor preço encontrado como média obrigatória para qualquer serviço com IA.",
+    "depois": "Comparar escopo e direitos, mantendo data e lacunas visíveis.",
+    "campos": [
+      "Pesquisa: ofertas anunciadas em reais e data",
+      "Comparação: produção, quantidade, revisão e uso",
+      "Limite: amostra não representa média de mercado"
+    ],
+    "passos": [
+      "Leia as três ofertas pesquisadas no caderno.",
+      "Marque diferenças de escopo e campos não informados.",
+      "Escreva por que não pode comparar apenas os valores."
+    ],
+    "pronto": "a comparação de três anúncios identifica diferenças e limitações",
+    "q": "Uma oferta custa menos, mas não informa revisão nem licença. Qual conclusão é válida?",
+    "opcoes": [
+      "Ela é necessariamente a opção mais rentável para qualquer criador",
+      "Faltam condições para uma comparação equivalente",
+      "Ela comprova o preço médio brasileiro de todos os vídeos"
+    ],
+    "correta": 1,
+    "observacao": "Conjuntos de fotografias com tamanhos diferentes ilustram diferenças de escopo. Não são pacotes de fornecedores pesquisados.",
+    "ex1": "Rita verifica o que cada preço inclui antes de comparar.",
+    "ex2": "Celso percebe que duração sozinha não descreve toda a entrega.",
+    "calma": "Se uma página mudar, registre a nova data e condição. Preserve a anotação anterior como histórico, sem fingir que continua vigente.",
+    "confira": "Comparar escopo e direitos, mantendo data e lacunas visíveis.",
+    "tarefa": "Compare preços anunciados sem inventar uma tabela universal",
+    "resumo": [
+      "Pesquisa: ofertas anunciadas em reais e data",
+      "Comparação: produção, quantidade, revisão e uso",
+      "Limite: amostra não representa média de mercado"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Compare preços anunciados sem inventar uma tabela universal\nPesquisa: ofertas anunciadas em reais e data — <sua decisão>\nComparação: produção, quantidade, revisão e uso — <sua decisão>\nLimite: amostra não representa média de mercado — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Uma oferta custa menos, mas não informa revisão nem licença. Qual conclusão é válida?",
+        "Faltam condições para uma comparação equivalente"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Comparar escopo e direitos, mantendo data e lacunas visíveis."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a comparação de três anúncios identifica diferenças e limitações"
+      ]
+    ]
+  },
+  {
+    "titulo": "Separe produção e permissão de uso",
+    "entrega": "escrever uma ficha de uso com prazo, canais e limites",
+    "dor": "Pagar pela produção não explica automaticamente onde e por quanto tempo o material poderá ser usado.",
+    "antes": "Prometer uso ilimitado e exclusivo sem conferir as licenças dos elementos.",
+    "depois": "Delimitar o uso e verificar se todos os elementos permitem a entrega.",
+    "campos": [
+      "Uso: orgânico, canais da marca, 30 dias",
+      "Fora: mídia paga e exclusividade não negociadas",
+      "Verificação: imagem, voz, música e ferramentas"
+    ],
+    "passos": [
+      "Preencha quem usa, material, canais, território e prazo.",
+      "Separe uso orgânico, mídia paga e alterações.",
+      "Liste permissões conferidas e dúvidas que impedem uma proposta real."
+    ],
+    "pronto": "a ficha delimita o uso e identifica permissões ainda necessárias",
+    "q": "Uma música permite uso pessoal, mas o cliente quer anúncio pago. O que fazer?",
+    "opcoes": [
+      "Entregar assim mesmo porque o arquivo já está exportado",
+      "Prometer exclusividade sobre a música sem consultar a licença",
+      "Obter licença adequada ou substituir a faixa antes da entrega"
+    ],
+    "correta": 2,
+    "observacao": "Rita e Celso examinam fotografias e uma pasta. A cena não representa assinatura de um contrato real.",
+    "ex1": "Rita confere licenças antes de oferecer exclusividade.",
+    "ex2": "Celso sabe que anúncio pago é um uso diferente da postagem orgânica.",
+    "calma": "Se não conseguir confirmar uma permissão, mantenha o elemento fora da entrega comercial até resolver ou substituir.",
+    "confira": "Delimitar o uso e verificar se todos os elementos permitem a entrega.",
+    "tarefa": "Separe produção e permissão de uso",
+    "resumo": [
+      "Uso: orgânico, canais da marca, 30 dias",
+      "Fora: mídia paga e exclusividade não negociadas",
+      "Verificação: imagem, voz, música e ferramentas"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Separe produção e permissão de uso\nUso: orgânico, canais da marca, 30 dias — <sua decisão>\nFora: mídia paga e exclusividade não negociadas — <sua decisão>\nVerificação: imagem, voz, música e ferramentas — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Uma música permite uso pessoal, mas o cliente quer anúncio pago. O que fazer?",
+        "Obter licença adequada ou substituir a faixa antes da entrega"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Delimitar o uso e verificar se todos os elementos permitem a entrega."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a ficha delimita o uso e identifica permissões ainda necessárias"
+      ]
+    ]
+  },
+  {
+    "titulo": "Selecione três peças que sustentam sua oferta",
+    "entrega": "escolher três trabalhos próprios com arquivos e permissões conferidos",
+    "dor": "Um portfólio grande pode esconder o serviço que você quer vender. Três peças pertinentes são um começo mais fácil de avaliar.",
+    "antes": "Colocar toda tentativa no portfólio e apresentar estudo como cliente real.",
+    "depois": "Selecionar três peças pertinentes, conferidas e identificadas com honestidade.",
+    "campos": [
+      "Seleção: três peças ligadas ao serviço",
+      "Identificação: estudo ou trabalho autorizado",
+      "Evidência: arquivo existente e revisão"
+    ],
+    "passos": [
+      "Liste três candidatos e a função de cada um.",
+      "Abra os arquivos disponíveis e confira direitos e qualidade.",
+      "Selecione os três ou registre qual produção ainda falta."
+    ],
+    "pronto": "a seleção tem função, situação real e pendências identificadas",
+    "q": "Uma peça é um estudo de marca fictícia. Como apresentá-la?",
+    "opcoes": [
+      "Como estudo autoral, sem alegar contratação ou resultado real",
+      "Como cliente atendido, porque o nome parece convincente",
+      "Como campanha de sucesso, mesmo sem publicação ou métricas"
+    ],
+    "correta": 0,
+    "observacao": "Três estudos impressos ilustram seleção. Eles não substituem os arquivos próprios exigidos do aluno.",
+    "ex1": "Rita escolhe trabalhos que mostram o serviço anunciado.",
+    "ex2": "Celso consegue distinguir estudo de campanha encomendada.",
+    "calma": "Se só tiver duas boas peças, preserve essa qualidade. Produza a terceira e mantenha a entrega final pendente até ela existir.",
+    "confira": "Selecionar três peças pertinentes, conferidas e identificadas com honestidade.",
+    "tarefa": "Selecione três peças que sustentam sua oferta",
+    "resumo": [
+      "Seleção: três peças ligadas ao serviço",
+      "Identificação: estudo ou trabalho autorizado",
+      "Evidência: arquivo existente e revisão"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Selecione três peças que sustentam sua oferta\nSeleção: três peças ligadas ao serviço — <sua decisão>\nIdentificação: estudo ou trabalho autorizado — <sua decisão>\nEvidência: arquivo existente e revisão — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Uma peça é um estudo de marca fictícia. Como apresentá-la?",
+        "Como estudo autoral, sem alegar contratação ou resultado real"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Selecionar três peças pertinentes, conferidas e identificadas com honestidade."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a seleção tem função, situação real e pendências identificadas"
+      ]
+    ]
+  },
+  {
+    "titulo": "Escreva o contexto de cada peça em três linhas",
+    "entrega": "redigir três legendas com problema, decisão e evidência",
+    "dor": "Sem contexto, o cliente pode ver uma imagem bonita e continuar sem entender o que você fez.",
+    "antes": "Chamar toda peça de campanha premium que converte sem mostrar função ou evidência.",
+    "depois": "Descrever problema, decisão e arquivo conferido em três linhas.",
+    "campos": [
+      "Linha 1: problema ou função",
+      "Linha 2: decisão e sua participação",
+      "Linha 3: evidência e limite do estudo"
+    ],
+    "passos": [
+      "Abra cada peça selecionada e escreva suas três linhas.",
+      "Identifique estudo fictício, autoria e contribuições.",
+      "Confira se cada afirmação corresponde ao arquivo."
+    ],
+    "pronto": "as três legendas estão ligadas aos trabalhos e sem resultado inventado",
+    "q": "Qual terceira linha é adequada para um estudo sem campanha real?",
+    "opcoes": [
+      "Aumentou vendas em 300%, sem dados para comprovar",
+      "MP4 de 15 segundos revisado; estudo sem veiculação",
+      "A marca contratou novamente, embora nunca tenha sido cliente"
+    ],
+    "correta": 1,
+    "observacao": "O livro de portfólio representa organização de exemplos. O texto de contexto deve corresponder aos arquivos do seu trabalho.",
+    "ex1": "Rita descreve sua contribuição sem apagar colaboradores.",
+    "ex2": "Celso entende a função do vídeo antes de perguntar sobre a ferramenta.",
+    "calma": "Se não há resultado de negócio medido, diga isso. A evidência pode ser a entrega técnica que você realmente concluiu.",
+    "confira": "Descrever problema, decisão e arquivo conferido em três linhas.",
+    "tarefa": "Escreva o contexto de cada peça em três linhas",
+    "resumo": [
+      "Linha 1: problema ou função",
+      "Linha 2: decisão e sua participação",
+      "Linha 3: evidência e limite do estudo"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Escreva o contexto de cada peça em três linhas\nLinha 1: problema ou função — <sua decisão>\nLinha 2: decisão e sua participação — <sua decisão>\nLinha 3: evidência e limite do estudo — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Qual terceira linha é adequada para um estudo sem campanha real?",
+        "MP4 de 15 segundos revisado; estudo sem veiculação"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Descrever problema, decisão e arquivo conferido em três linhas."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "as três legendas estão ligadas aos trabalhos e sem resultado inventado"
+      ]
+    ],
+    "aviso_tempo": "Para conferir as três legendas, você precisa dos três arquivos. Produza o que falta antes da prática; essa produção exige tempo adicional."
+  },
+  {
+    "titulo": "Organize um ciclo de sete dias para o portfólio",
+    "entrega": "planejar a montagem do portfólio com três peças reais e uma revisão",
+    "dor": "Uma data ajuda a organizar trabalho, mas não transforma arquivos ausentes em entregas concluídas.",
+    "antes": "Chamar o portfólio de concluído ao preencher sete datas sem abrir os arquivos.",
+    "depois": "Vincular cada etapa a uma saída e conferir os arquivos antes de concluir.",
+    "campos": [
+      "Ciclo: sete etapas com datas viáveis",
+      "Pacote: três peças, PDF e contato",
+      "Situação: pronta apenas após conferência"
+    ],
+    "passos": [
+      "Distribua as sete etapas em datas possíveis.",
+      "Indique a saída e a situação de cada etapa.",
+      "Reserve revisão no celular e identifique produção adicional."
+    ],
+    "pronto": "o calendário define etapas, saídas e revisão sem esconder pendências",
+    "q": "A terceira peça ainda não existe na data prevista. O que registrar?",
+    "opcoes": [
+      "Pronto, porque o calendário já terminou",
+      "Publicado, porque existe uma ideia para produzir",
+      "Pendente, com nova data e etapa necessária"
+    ],
+    "correta": 2,
+    "observacao": "Cartões organizados lembram etapas do ciclo. O calendário escrito contém datas e situações verificáveis.",
+    "ex1": "Rita ajusta o calendário quando falta produção.",
+    "ex2": "Celso recebe uma apresentação que consegue abrir no celular.",
+    "calma": "Se não conhece um editor de apresentações, use o Figma ensinado na série. Um PDF simples já permite começar a revisão.",
+    "confira": "Vincular cada etapa a uma saída e conferir os arquivos antes de concluir.",
+    "tarefa": "Organize um ciclo de sete dias para o portfólio",
+    "resumo": [
+      "Ciclo: sete etapas com datas viáveis",
+      "Pacote: três peças, PDF e contato",
+      "Situação: pronta apenas após conferência"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Organize um ciclo de sete dias para o portfólio\nCiclo: sete etapas com datas viáveis — <sua decisão>\nPacote: três peças, PDF e contato — <sua decisão>\nSituação: pronta apenas após conferência — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "A terceira peça ainda não existe na data prevista. O que registrar?",
+        "Pendente, com nova data e etapa necessária"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Vincular cada etapa a uma saída e conferir os arquivos antes de concluir."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o calendário define etapas, saídas e revisão sem esconder pendências"
+      ]
+    ]
+  },
+  {
+    "titulo": "Teste se a oferta fica clara em dez segundos",
+    "entrega": "registrar uma revisão rápida de clareza do portfólio",
+    "dor": "A primeira impressão precisa mostrar o serviço, mas uma olhada rápida não mede vendas nem substitui análise da peça.",
+    "antes": "Afirmar que uma página vende porque alguém gostou da cor em dez segundos.",
+    "depois": "Verificar serviço, público e próximo passo, com limites da observação.",
+    "campos": [
+      "Perguntas: serviço, público e próximo passo",
+      "Registro: resposta observada ou revisão individual",
+      "Decisão: ajustar ou manter com critérios"
+    ],
+    "passos": [
+      "Mostre a página por dez segundos ou faça revisão individual identificada.",
+      "Registre as respostas às três perguntas.",
+      "Escolha um ajuste ou mantenha com justificativa."
+    ],
+    "pronto": "existe um registro de clareza com método e decisão identificados",
+    "q": "A pessoa gostou da imagem, mas não entendeu seu serviço. Qual primeiro ajuste?",
+    "opcoes": [
+      "Explicitar a entrega na frase principal da página",
+      "Adicionar mais efeitos visuais ao mesmo título vago",
+      "Afirmar que o gosto pela cor comprova intenção de compra"
+    ],
+    "correta": 0,
+    "observacao": "Celso observa um vaso de vidro. A cena ilustra atenção ao objeto e não mostra um teste real de portfólio.",
+    "ex1": "Rita anota a resposta antes de explicar a intenção.",
+    "ex2": "Celso procura uma entrega clara, não uma lista de recursos.",
+    "calma": "Se você mesmo revisar, registre isso. Uma observação individual é útil, mas diferente da resposta de alguém que acabou de conhecer a oferta.",
+    "confira": "Verificar serviço, público e próximo passo, com limites da observação.",
+    "tarefa": "Teste se a oferta fica clara em dez segundos",
+    "resumo": [
+      "Perguntas: serviço, público e próximo passo",
+      "Registro: resposta observada ou revisão individual",
+      "Decisão: ajustar ou manter com critérios"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Teste se a oferta fica clara em dez segundos\nPerguntas: serviço, público e próximo passo — <sua decisão>\nRegistro: resposta observada ou revisão individual — <sua decisão>\nDecisão: ajustar ou manter com critérios — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "A pessoa gostou da imagem, mas não entendeu seu serviço. Qual primeiro ajuste?",
+        "Explicitar a entrega na frase principal da página"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Verificar serviço, público e próximo passo, com limites da observação."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "existe um registro de clareza com método e decisão identificados"
+      ]
+    ],
+    "aviso_tempo": "Antes da prática, monte uma primeira página simples com oferta, imagem de uma peça e contato profissional. Essa preparação exige tempo adicional."
+  },
+  {
+    "titulo": "Reduza as dúvidas que impedem uma contratação",
+    "entrega": "listar riscos de entrega e uma resposta concreta para cada um",
+    "dor": "O cliente pode gostar do visual e ainda temer atraso, uso indevido de imagem ou dificuldade para pedir uma alteração.",
+    "antes": "Dizer pode confiar sem mostrar processo, exemplo ou condição de uso.",
+    "depois": "Responder cada dúvida com evidência, etapa ou limite verificável.",
+    "campos": [
+      "Dúvidas: qualidade, prazo, direitos e comunicação",
+      "Respostas: exemplo, etapas, ficha e responsável",
+      "Piloto: escopo menor e condição explícita"
+    ],
+    "passos": [
+      "Liste quatro dúvidas prováveis do contratante.",
+      "Associe uma evidência ou etapa a cada dúvida.",
+      "Marque o que falta testar ou confirmar antes de oferecer."
+    ],
+    "pronto": "as quatro dúvidas têm respostas concretas e pendências visíveis",
+    "q": "O cliente teme mudanças na forma do produto. Qual resposta ajuda?",
+    "opcoes": [
+      "Garantir perfeição sem mostrar nenhum teste com referência",
+      "Propor referência real, piloto delimitado e revisão da forma",
+      "Prometer mais efeitos para distrair de qualquer deformação"
+    ],
+    "correta": 1,
+    "observacao": "A inspeção de fotografias representa conferência de qualidade. O produto mostrado é fictício, sem garantia de fidelidade comercial.",
+    "ex1": "Rita oferece um piloto delimitado para uma função ainda incerta.",
+    "ex2": "Celso sabe como apontar uma alteração no produto.",
+    "calma": "Se não consegue controlar um detalhe necessário, ofereça outra abordagem ou recuse esse escopo. Esconder a limitação só adia o problema.",
+    "confira": "Responder cada dúvida com evidência, etapa ou limite verificável.",
+    "tarefa": "Reduza as dúvidas que impedem uma contratação",
+    "resumo": [
+      "Dúvidas: qualidade, prazo, direitos e comunicação",
+      "Respostas: exemplo, etapas, ficha e responsável",
+      "Piloto: escopo menor e condição explícita"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Reduza as dúvidas que impedem uma contratação\nDúvidas: qualidade, prazo, direitos e comunicação — <sua decisão>\nRespostas: exemplo, etapas, ficha e responsável — <sua decisão>\nPiloto: escopo menor e condição explícita — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "O cliente teme mudanças na forma do produto. Qual resposta ajuda?",
+        "Propor referência real, piloto delimitado e revisão da forma"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Responder cada dúvida com evidência, etapa ou limite verificável."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "as quatro dúvidas têm respostas concretas e pendências visíveis"
+      ]
+    ]
+  },
+  {
+    "titulo": "Separe experimentação e trabalhos prontos para contratar",
+    "entrega": "organizar duas seleções sem confundir estudo com entrega aprovada",
+    "dor": "Experimentos mostram curiosidade, mas podem atrapalhar quando ocupam o lugar das peças que comprovam seu serviço.",
+    "antes": "Misturar tentativas com defeitos e campanhas autorizadas sem identificar o que é cada coisa.",
+    "depois": "Organizar seleção principal e laboratório com função, situação e permissões.",
+    "campos": [
+      "Principal: três peças pertinentes e revisadas",
+      "Laboratório: estudos identificados",
+      "Nomes: função e situação compreensíveis"
+    ],
+    "passos": [
+      "Classifique seus arquivos como principal, laboratório ou pendente.",
+      "Renomeie a apresentação pela função de cada peça.",
+      "Confira permissão de exibição e selecione as três principais."
+    ],
+    "pronto": "as duas seleções estão claras e as três peças principais foram identificadas",
+    "q": "Um cliente proibiu divulgar a peça entregue. Qual decisão respeita o acordo?",
+    "opcoes": [
+      "Exibir mesmo assim porque você participou da produção",
+      "Publicar sem o nome do cliente, ignorando a restrição",
+      "Manter fora do portfólio público e usar outro estudo autorizado"
+    ],
+    "correta": 2,
+    "observacao": "Dois conjuntos de estudos representam seleção principal e laboratório. A fotografia não demonstra que os arquivos passaram por aprovação de cliente.",
+    "ex1": "Rita preserva experimentos sem apresentá-los como entregas contratadas.",
+    "ex2": "Celso encontra primeiro exemplos do serviço que procura.",
+    "calma": "Se só tiver estudos autorais, identifique todos como estudos. Isso é mais claro que inventar uma lista de clientes.",
+    "confira": "Organizar seleção principal e laboratório com função, situação e permissões.",
+    "tarefa": "Separe experimentação e trabalhos prontos para contratar",
+    "resumo": [
+      "Principal: três peças pertinentes e revisadas",
+      "Laboratório: estudos identificados",
+      "Nomes: função e situação compreensíveis"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Separe experimentação e trabalhos prontos para contratar\nPrincipal: três peças pertinentes e revisadas — <sua decisão>\nLaboratório: estudos identificados — <sua decisão>\nNomes: função e situação compreensíveis — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Um cliente proibiu divulgar a peça entregue. Qual decisão respeita o acordo?",
+        "Manter fora do portfólio público e usar outro estudo autorizado"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Organizar seleção principal e laboratório com função, situação e permissões."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "as duas seleções estão claras e as três peças principais foram identificadas"
+      ]
+    ]
+  },
+  {
+    "titulo": "Qualifique o pedido antes de marcar uma reunião",
+    "entrega": "preparar perguntas sobre objetivo, escopo, prazo e investimento",
+    "dor": "Uma conversa longa pode terminar sem informações suficientes para orçar. Perguntas curtas ajudam os dois lados a decidir o próximo passo.",
+    "antes": "Marcar reuniões indefinidas sem perguntar o que precisa ser produzido.",
+    "depois": "Reunir informações mínimas e combinar um próximo passo útil.",
+    "campos": [
+      "Perguntas: entrega, uso, prazo e aprovação",
+      "Investimento: faixa prevista ou estimativa a construir",
+      "Próximo passo: proposta, pergunta ou recusa respeitosa"
+    ],
+    "passos": [
+      "Escreva cinco perguntas pertinentes ao pedido.",
+      "Prepare uma resposta curta para o caso Bruma.",
+      "Classifique o encaixe e indique o próximo passo."
+    ],
+    "pronto": "a resposta reúne perguntas e uma decisão de encaminhamento",
+    "q": "A pessoa não sabe quanto investir. Qual resposta mantém a conversa útil?",
+    "opcoes": [
+      "Explicar o escopo necessário para construir uma estimativa",
+      "Desqualificar a pessoa por não conhecer seus preços",
+      "Prometer qualquer entrega pelo valor que ela imaginar"
+    ],
+    "correta": 0,
+    "observacao": "Rita e Celso conversam com uma ficha entre eles. É uma situação fictícia, sem mensagem enviada ou reunião comercial real.",
+    "ex1": "Rita usa perguntas para evitar um orçamento baseado em adivinhação.",
+    "ex2": "Celso entende quais decisões faltam antes de marcar uma chamada.",
+    "calma": "Se o pedido continuar amplo, proponha definir uma única peça primeiro. Isso reduz o tamanho da estimativa inicial.",
+    "confira": "Reunir informações mínimas e combinar um próximo passo útil.",
+    "tarefa": "Qualifique o pedido antes de marcar uma reunião",
+    "resumo": [
+      "Perguntas: entrega, uso, prazo e aprovação",
+      "Investimento: faixa prevista ou estimativa a construir",
+      "Próximo passo: proposta, pergunta ou recusa respeitosa"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Qualifique o pedido antes de marcar uma reunião\nPerguntas: entrega, uso, prazo e aprovação — <sua decisão>\nInvestimento: faixa prevista ou estimativa a construir — <sua decisão>\nPróximo passo: proposta, pergunta ou recusa respeitosa — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "A pessoa não sabe quanto investir. Qual resposta mantém a conversa útil?",
+        "Explicar o escopo necessário para construir uma estimativa"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Reunir informações mínimas e combinar um próximo passo útil."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a resposta reúne perguntas e uma decisão de encaminhamento"
+      ]
+    ]
+  },
+  {
+    "titulo": "Monte três pacotes com diferenças reais",
+    "entrega": "descrever opções A, B e C com quantidade, revisão e uso explícitos",
+    "dor": "Mudar só o nome do pacote pode esconder que o cliente não está comparando entregas claramente diferentes.",
+    "antes": "Criar três nomes sofisticados sem explicar quantidade, revisão ou uso.",
+    "depois": "Mostrar diferenças úteis de escopo e calcular cada opção.",
+    "campos": [
+      "A: um vídeo e uma rodada",
+      "B: três vídeos e duas rodadas",
+      "C: cinco vídeos, capas e duas rodadas"
+    ],
+    "passos": [
+      "Preencha quantidade, duração, revisões e uso de A, B e C.",
+      "Liste inclusões e exclusões comuns.",
+      "Calcule cada base ou identifique o que falta medir."
+    ],
+    "pronto": "os três pacotes têm diferenças úteis e bases de custo identificadas",
+    "q": "O pacote maior inclui mais peças. O que precisa ser revisto antes do preço?",
+    "opcoes": [
+      "Somente a cor do nome apresentado na proposta",
+      "Horas, despesas, revisões e capacidade para a série",
+      "A promessa de alcance para justificar qualquer valor"
+    ],
+    "correta": 1,
+    "observacao": "Pastas com volumes diferentes representam opções de entrega. As condições verdadeiras do exercício estão na ficha de pacotes.",
+    "ex1": "Rita calcula o trabalho adicional de cada peça.",
+    "ex2": "Celso compara o que receberá, sem depender de nomes de categorias.",
+    "calma": "Se não consegue explicar a diferença entre B e C, reduza as opções. Três pacotes são um exercício de clareza, não uma obrigação comercial universal.",
+    "confira": "Mostrar diferenças úteis de escopo e calcular cada opção.",
+    "tarefa": "Monte três pacotes com diferenças reais",
+    "resumo": [
+      "A: um vídeo e uma rodada",
+      "B: três vídeos e duas rodadas",
+      "C: cinco vídeos, capas e duas rodadas"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Monte três pacotes com diferenças reais\nA: um vídeo e uma rodada — <sua decisão>\nB: três vídeos e duas rodadas — <sua decisão>\nC: cinco vídeos, capas e duas rodadas — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "O pacote maior inclui mais peças. O que precisa ser revisto antes do preço?",
+        "Horas, despesas, revisões e capacidade para a série"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Mostrar diferenças úteis de escopo e calcular cada opção."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "os três pacotes têm diferenças úteis e bases de custo identificadas"
+      ]
+    ]
+  },
+  {
+    "titulo": "Negocie mudando escopo antes de cortar o trabalho",
+    "entrega": "registrar uma alternativa de orçamento sem esconder custo ou limite",
+    "dor": "Um desconto automático pode preservar todas as tarefas e eliminar a margem que sustentava o projeto.",
+    "antes": "Reduzir o preço mantendo todas as tarefas sem conferir a margem.",
+    "depois": "Oferecer alternativa de escopo e registrar o efeito no custo e no preço.",
+    "campos": [
+      "Negociação: escopo antes do desconto automático",
+      "Adicional: trabalho ou direito descrito",
+      "Comparação: original e alternativa conferíveis"
+    ],
+    "passos": [
+      "Escolha um pedido de redução de investimento no caso fictício.",
+      "Escreva uma alternativa com menor escopo e novo cálculo.",
+      "Compare as duas opções e registre limites preservados."
+    ],
+    "pronto": "a alternativa mostra o que mudou e como isso afeta o orçamento",
+    "q": "O cliente pede formato horizontal além do vertical combinado. Qual encaminhamento?",
+    "opcoes": [
+      "Fazer sem registrar o trabalho adicional em qualquer situação",
+      "Recusar toda conversa sem explicar a diferença de escopo",
+      "Estimar reenquadramento e combinar o adicional antes de executar"
+    ],
+    "correta": 2,
+    "observacao": "Rita calcula junto de fotografias e pastas. A imagem representa revisão de escopo, sem negociação ou pagamento reais.",
+    "ex1": "Rita mostra o efeito do desconto antes de aceitá-lo.",
+    "ex2": "Celso sabe qual entrega será retirada na opção menor.",
+    "calma": "Se nenhuma opção couber no investimento com qualidade mínima, explique o limite e encerre a proposta de forma respeitosa.",
+    "confira": "Oferecer alternativa de escopo e registrar o efeito no custo e no preço.",
+    "tarefa": "Negocie mudando escopo antes de cortar o trabalho",
+    "resumo": [
+      "Negociação: escopo antes do desconto automático",
+      "Adicional: trabalho ou direito descrito",
+      "Comparação: original e alternativa conferíveis"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Negocie mudando escopo antes de cortar o trabalho\nNegociação: escopo antes do desconto automático — <sua decisão>\nAdicional: trabalho ou direito descrito — <sua decisão>\nComparação: original e alternativa conferíveis — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "O cliente pede formato horizontal além do vertical combinado. Qual encaminhamento?",
+        "Estimar reenquadramento e combinar o adicional antes de executar"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Oferecer alternativa de escopo e registrar o efeito no custo e no preço."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a alternativa mostra o que mudou e como isso afeta o orçamento"
+      ]
+    ]
+  },
+  {
+    "titulo": "Comece por contatos com contexto legítimo",
+    "entrega": "preparar três abordagens pertinentes sem envio automático",
+    "dor": "Ter um endereço de contato não significa que a pessoa quer receber qualquer proposta. Relevância e respeito são parte do trabalho.",
+    "antes": "Enviar a mesma promessa para uma lista comprada de pessoas sem contexto.",
+    "depois": "Preparar abordagens pertinentes com identidade verdadeira e espaço para recusa.",
+    "campos": [
+      "Contexto: relação existente ou canal comercial pertinente",
+      "Mensagem: identidade, utilidade e pedido de continuidade",
+      "Limite: mínimo de dados e respeito à recusa"
+    ],
+    "passos": [
+      "Escolha três contextos legítimos ou fictícios identificados.",
+      "Escreva mensagens curtas sem alegações inventadas.",
+      "Revise pertinência e mantenha todas como rascunho."
+    ],
+    "pronto": "existem três rascunhos pertinentes, sem envio obrigatório",
+    "q": "Você encontrou um telefone pessoal num comentário antigo. Isso basta para uma campanha de mensagens?",
+    "opcoes": [
+      "Não; é preciso avaliar finalidade, contexto e regras aplicáveis",
+      "Sim; qualquer dado público autoriza contato comercial em massa",
+      "Sim; basta esconder a origem da lista de contatos"
+    ],
+    "correta": 0,
+    "observacao": "Rita escreve uma mensagem em papel. A cena ilustra rascunho, sem comunicação enviada a terceiros.",
+    "ex1": "Rita não inventa uma indicação para conseguir resposta.",
+    "ex2": "Celso pode recusar sem receber insistência automática.",
+    "calma": "Se não houver contexto apropriado, use um caso fictício para treinar. A aula não exige abordar uma pessoa real.",
+    "confira": "Preparar abordagens pertinentes com identidade verdadeira e espaço para recusa.",
+    "tarefa": "Comece por contatos com contexto legítimo",
+    "resumo": [
+      "Contexto: relação existente ou canal comercial pertinente",
+      "Mensagem: identidade, utilidade e pedido de continuidade",
+      "Limite: mínimo de dados e respeito à recusa"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Comece por contatos com contexto legítimo\nContexto: relação existente ou canal comercial pertinente — <sua decisão>\nMensagem: identidade, utilidade e pedido de continuidade — <sua decisão>\nLimite: mínimo de dados e respeito à recusa — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Você encontrou um telefone pessoal num comentário antigo. Isso basta para uma campanha de mensagens?",
+        "Não; é preciso avaliar finalidade, contexto e regras aplicáveis"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Preparar abordagens pertinentes com identidade verdadeira e espaço para recusa."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "existem três rascunhos pertinentes, sem envio obrigatório"
+      ]
+    ]
+  },
+  {
+    "titulo": "Organize vinte modelos e adapte três abordagens",
+    "entrega": "organizar uma biblioteca de abordagens adaptáveis a situações diferentes",
+    "dor": "Repetir uma mensagem vinte vezes não desenvolve uma abordagem melhor. Variações precisam corresponder a necessidades reais.",
+    "antes": "Copiar vinte mensagens iguais e considerar quantidade como qualidade da prospecção.",
+    "depois": "Usar situações distintas para escrever abordagens verdadeiras e pertinentes.",
+    "campos": [
+      "Biblioteca: vinte situações de treino",
+      "Adaptação: três rascunhos próprios",
+      "Situação: preparado, sem envio ou resposta inventados"
+    ],
+    "passos": [
+      "Leia os vinte modelos do caderno de abordagens.",
+      "Escolha três situações e adapte ao seu serviço.",
+      "Revise fatos, pertinência e respeito à recusa; salve como rascunhos."
+    ],
+    "pronto": "a biblioteca foi organizada e três rascunhos próprios foram revisados",
+    "q": "Qual personalização torna uma abordagem mais pertinente?",
+    "opcoes": [
+      "Apenas trocar o nome numa promessa genérica de vendas",
+      "Ligar uma necessidade observável a um exemplo adequado",
+      "Dizer que recebeu indicação de alguém que nunca participou"
+    ],
+    "correta": 1,
+    "observacao": "Cartões com diferentes objetos lembram contextos distintos. Não são uma base de contatos ou mensagens enviadas.",
+    "ex1": "Rita adapta o exemplo ao problema observado.",
+    "ex2": "Celso recebe uma pergunta simples quando a conversa fizer sentido.",
+    "calma": "Se a mensagem depender de uma afirmação que você não verificou, retire essa parte. Clareza não precisa de falsa intimidade.",
+    "confira": "Usar situações distintas para escrever abordagens verdadeiras e pertinentes.",
+    "tarefa": "Organize vinte modelos e adapte três abordagens",
+    "resumo": [
+      "Biblioteca: vinte situações de treino",
+      "Adaptação: três rascunhos próprios",
+      "Situação: preparado, sem envio ou resposta inventados"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Organize vinte modelos e adapte três abordagens\nBiblioteca: vinte situações de treino — <sua decisão>\nAdaptação: três rascunhos próprios — <sua decisão>\nSituação: preparado, sem envio ou resposta inventados — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Qual personalização torna uma abordagem mais pertinente?",
+        "Ligar uma necessidade observável a um exemplo adequado"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Usar situações distintas para escrever abordagens verdadeiras e pertinentes."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a biblioteca foi organizada e três rascunhos próprios foram revisados"
+      ]
+    ]
+  },
+  {
+    "titulo": "Organize respostas e próximos passos sem pressão",
+    "entrega": "montar um registro simples de conversas e situações reais",
+    "dor": "Sem registro, você pode repetir perguntas, esquecer um combinado ou insistir onde a pessoa já recusou.",
+    "antes": "Marcar todos como interessados e insistir depois de um pedido para parar.",
+    "depois": "Registrar a situação real e respeitar o próximo passo combinado.",
+    "campos": [
+      "Registro: mínimo profissional e data",
+      "Situação: rascunho, proposta ou encerrado",
+      "Próximo passo: acordo verificável ou nenhum"
+    ],
+    "passos": [
+      "Abra a ficha de acompanhamento do caderno.",
+      "Preencha três situações fictícias com dados mínimos.",
+      "Confira se encerrados não têm uma nova abordagem planejada."
+    ],
+    "pronto": "o registro distingue as três situações sem insistência ou interesse inventados",
+    "q": "A pessoa pediu para não receber novas propostas. O que registrar?",
+    "opcoes": [
+      "Retomar amanhã com uma mensagem mais insistente",
+      "Interesse alto, porque ela respondeu ao primeiro contato",
+      "Encerrado, respeitando o pedido de não receber mensagens"
+    ],
+    "correta": 2,
+    "observacao": "Rita e Celso observam um caderno. A imagem ilustra organização, sem banco de contatos ou conversa comercial real.",
+    "ex1": "Rita registra o combinado para não repetir cobranças.",
+    "ex2": "Celso pode encerrar a conversa com uma resposta clara.",
+    "calma": "Se não houve resposta, registre ausência de resposta. Não transforme silêncio em interesse, aprovação ou recusa presumida.",
+    "confira": "Registrar a situação real e respeitar o próximo passo combinado.",
+    "tarefa": "Organize respostas e próximos passos sem pressão",
+    "resumo": [
+      "Registro: mínimo profissional e data",
+      "Situação: rascunho, proposta ou encerrado",
+      "Próximo passo: acordo verificável ou nenhum"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Organize respostas e próximos passos sem pressão\nRegistro: mínimo profissional e data — <sua decisão>\nSituação: rascunho, proposta ou encerrado — <sua decisão>\nPróximo passo: acordo verificável ou nenhum — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "A pessoa pediu para não receber novas propostas. O que registrar?",
+        "Encerrado, respeitando o pedido de não receber mensagens"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Registrar a situação real e respeitar o próximo passo combinado."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "o registro distingue as três situações sem insistência ou interesse inventados"
+      ]
+    ]
+  },
+  {
+    "titulo": "Revise qualidade antes de defender o preço",
+    "entrega": "registrar uma revisão técnica de uma peça existente",
+    "dor": "Uma proposta bem escrita perde força quando o arquivo apresenta deformações, texto ilegível ou som interrompido.",
+    "antes": "Cobrar pela aparência sofisticada sem conferir o arquivo entregue.",
+    "depois": "Revisar critérios técnicos e corrigir falhas que alteram a informação.",
+    "campos": [
+      "Objeto: forma, cor e continuidade",
+      "Leitura: texto, fala e ritmo",
+      "Decisão: aprovado, corrigir ou refazer"
+    ],
+    "passos": [
+      "Abra uma peça própria e confira do início ao fim.",
+      "Registre um problema com tempo ou critérios aprovados.",
+      "Defina correção e mantenha a entrega pendente se necessário."
+    ],
+    "pronto": "a ficha identifica critérios conferidos e a situação verdadeira da peça",
+    "q": "A boca do vaso muda no meio do vídeo. Como tratar o resultado?",
+    "opcoes": [
+      "Corrigir ou refazer antes de apresentar como representação do produto",
+      "Ignorar porque o efeito visual parece sofisticado e moderno",
+      "Afirmar que é uma característica real sem verificar o produto"
+    ],
+    "correta": 0,
+    "observacao": "A comparação ilustra revisão de forma. Fotografias geradas não comprovam testes ou qualidade de um produto físico.",
+    "ex1": "Rita confere o arquivo antes de explicar seu preço.",
+    "ex2": "Celso verifica se o vaso mostrado corresponde ao produto.",
+    "calma": "Se não souber corrigir, identifique o defeito e retome a aula técnica. Uma pendência clara é melhor que aprovação sem revisão.",
+    "confira": "Revisar critérios técnicos e corrigir falhas que alteram a informação.",
+    "tarefa": "Revise qualidade antes de defender o preço",
+    "resumo": [
+      "Objeto: forma, cor e continuidade",
+      "Leitura: texto, fala e ritmo",
+      "Decisão: aprovado, corrigir ou refazer"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Revise qualidade antes de defender o preço\nObjeto: forma, cor e continuidade — <sua decisão>\nLeitura: texto, fala e ritmo — <sua decisão>\nDecisão: aprovado, corrigir ou refazer — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "A boca do vaso muda no meio do vídeo. Como tratar o resultado?",
+        "Corrigir ou refazer antes de apresentar como representação do produto"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Revisar critérios técnicos e corrigir falhas que alteram a informação."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a ficha identifica critérios conferidos e a situação verdadeira da peça"
+      ]
+    ]
+  },
+  {
+    "titulo": "Escolha formato e conta pelo trabalho real",
+    "entrega": "registrar formato, conta e condições do cliente sem depender de atalhos",
+    "dor": "Personagem, vídeo sem apresentador e conta antiga são escolhas de produção. Nenhuma delas garante distribuição ou contratação.",
+    "antes": "Escolher uma conta antiga e um rosto realista como garantia de sucesso.",
+    "depois": "Definir formato pelo uso e conferir regras da conta e do cliente.",
+    "campos": [
+      "Formato: objeto, narrador ou personagem identificado",
+      "Conta: público e acesso coerentes",
+      "Cliente: condições de IA e aprovação por escrito"
+    ],
+    "passos": [
+      "Escolha um formato e explique sua função.",
+      "Registre se usaria conta existente ou nova e por quê.",
+      "Liste três condições que precisaria confirmar com o cliente."
+    ],
+    "pronto": "a ficha reúne escolha de formato, contexto da conta e perguntas de aprovação",
+    "q": "Uma marca conhecida pede um vídeo com IA. O que você precisa conferir?",
+    "opcoes": [
+      "Presumir que todas as marcas usam as mesmas regras",
+      "Condições específicas de IA, direitos e aprovação do projeto",
+      "Prometer alcance porque a conta da marca já existe há anos"
+    ],
+    "correta": 1,
+    "observacao": "Fotografia e sequência de quadros representam alternativas de apresentação. Nenhum perfil social foi criado nesta atividade.",
+    "ex1": "Rita escolhe o formato que comunica o detalhe necessário.",
+    "ex2": "Celso informa quem pode aprovar o conteúdo da marca.",
+    "calma": "Se as condições do cliente não estiverem claras, mantenha a proposta como rascunho. Não use uma suposição como autorização.",
+    "confira": "Definir formato pelo uso e conferir regras da conta e do cliente.",
+    "tarefa": "Escolha formato e conta pelo trabalho real",
+    "resumo": [
+      "Formato: objeto, narrador ou personagem identificado",
+      "Conta: público e acesso coerentes",
+      "Cliente: condições de IA e aprovação por escrito"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Escolha formato e conta pelo trabalho real\nFormato: objeto, narrador ou personagem identificado — <sua decisão>\nConta: público e acesso coerentes — <sua decisão>\nCliente: condições de IA e aprovação por escrito — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Uma marca conhecida pede um vídeo com IA. O que você precisa conferir?",
+        "Condições específicas de IA, direitos e aprovação do projeto"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Definir formato pelo uso e conferir regras da conta e do cliente."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a ficha reúne escolha de formato, contexto da conta e perguntas de aprovação"
+      ]
+    ]
+  },
+  {
+    "titulo": "Prepare as perguntas brasileiras de formalização",
+    "entrega": "organizar dúvidas sobre atividade, nota, contrato e recebimento",
+    "dor": "Um orçamento precisa conversar com a forma real de trabalhar. Copiar a situação de outra pessoa pode deixar obrigações sem resposta.",
+    "antes": "Copiar enquadramento e taxa de outra pessoa como se fossem universais.",
+    "depois": "Levar atividades e condições do projeto para conferir obrigações aplicáveis.",
+    "campos": [
+      "Atividade: descrição real e enquadramento a conferir",
+      "Documentos: nota, acordo e autorizações",
+      "Recebimento: condições a definir; extrato a conferir quando houver pagamento"
+    ],
+    "passos": [
+      "Descreva as atividades que pretende prestar.",
+      "Liste dúvidas sobre enquadramento, nota e condições contratuais.",
+      "Registre onde confirmará cada dúvida antes de contratar."
+    ],
+    "pronto": "a lista relaciona dúvidas concretas às fontes ou profissionais adequados",
+    "q": "Você recebeu uma imagem de comprovante Pix. Qual verificação confirma o recebimento?",
+    "opcoes": [
+      "A aparência e a cor do comprovante enviado pela pessoa",
+      "Uma mensagem dizendo que a transferência deve ter ocorrido",
+      "O registro da transação recebida no extrato da sua instituição"
+    ],
+    "correta": 2,
+    "observacao": "Papel e calculadora ilustram organização documental. A cena não representa uma nota fiscal válida nem pagamento real.",
+    "ex1": "Rita separa dúvida contábil de decisão de roteiro.",
+    "ex2": "Celso recebe condições claras antes de aprovar o serviço.",
+    "calma": "Se uma obrigação ainda não estiver clara, registre pendente de confirmação. Não preencha uma taxa inventada para concluir a ficha.",
+    "confira": "Levar atividades e condições do projeto para conferir obrigações aplicáveis.",
+    "tarefa": "Prepare as perguntas brasileiras de formalização",
+    "resumo": [
+      "Atividade: descrição real e enquadramento a conferir",
+      "Documentos: nota, acordo e autorizações",
+      "Recebimento: condições a definir; extrato a conferir quando houver pagamento"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Prepare as perguntas brasileiras de formalização\nAtividade: descrição real e enquadramento a conferir — <sua decisão>\nDocumentos: nota, acordo e autorizações — <sua decisão>\nRecebimento: condições a definir; extrato a conferir quando houver pagamento — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Você recebeu uma imagem de comprovante Pix. Qual verificação confirma o recebimento?",
+        "O registro da transação recebida no extrato da sua instituição"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Levar atividades e condições do projeto para conferir obrigações aplicáveis."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a lista relaciona dúvidas concretas às fontes ou profissionais adequados"
+      ]
+    ]
+  },
+  {
+    "titulo": "Monte uma proposta que pode ser conferida",
+    "entrega": "reunir oferta, três pacotes e condições numa proposta de estudo",
+    "dor": "Espalhar preço, revisões e uso por várias conversas torna difícil saber o que foi combinado.",
+    "antes": "Enviar apenas três preços sem explicar entrega, uso ou revisão.",
+    "depois": "Reunir escopo, cálculo e condições numa proposta com pendências identificadas.",
+    "campos": [
+      "Apresentação: necessidade e oferta em uma frase",
+      "Opções: três pacotes com condições e preços",
+      "Situação: estudo com pendências ou versão revisada"
+    ],
+    "passos": [
+      "Preencha o modelo com a oferta e os três pacotes.",
+      "Inclua dependências, uso, revisão e condições a confirmar.",
+      "Salve o rascunho e revise como alguém que o vê pela primeira vez."
+    ],
+    "pronto": "a proposta local reúne opções comparáveis e pendências visíveis",
+    "q": "A licença de uma música ainda não foi conferida. Como apresentar a proposta?",
+    "opcoes": [
+      "Identificar a pendência e conferir antes de fechar o uso",
+      "Declarar que todos os direitos estão resolvidos por padrão",
+      "Omitir a música para ninguém perceber a dúvida existente"
+    ],
+    "correta": 0,
+    "observacao": "Rita e Celso organizam folhas em uma pasta. A imagem representa preparação, sem proposta aprovada ou contratação.",
+    "ex1": "Rita deixa claro o que precisa receber para começar.",
+    "ex2": "Celso consegue comparar as três opções sem adivinhar inclusões.",
+    "calma": "Se a proposta ficar confusa, volte ao escopo. Retire promessas vagas e mantenha condições concretas que você consegue cumprir.",
+    "confira": "Reunir escopo, cálculo e condições numa proposta com pendências identificadas.",
+    "tarefa": "Monte uma proposta que pode ser conferida",
+    "resumo": [
+      "Apresentação: necessidade e oferta em uma frase",
+      "Opções: três pacotes com condições e preços",
+      "Situação: estudo com pendências ou versão revisada"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Monte uma proposta que pode ser conferida\nApresentação: necessidade e oferta em uma frase — <sua decisão>\nOpções: três pacotes com condições e preços — <sua decisão>\nSituação: estudo com pendências ou versão revisada — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "A licença de uma música ainda não foi conferida. Como apresentar a proposta?",
+        "Identificar a pendência e conferir antes de fechar o uso"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Reunir escopo, cálculo e condições numa proposta com pendências identificadas."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a proposta local reúne opções comparáveis e pendências visíveis"
+      ]
+    ]
+  },
+  {
+    "titulo": "Feche o portfólio com três peças reais",
+    "entrega": "conferir três arquivos e um PDF de apresentação acessível",
+    "dor": "Uma lista de ideias não demonstra o serviço. O portfólio precisa abrir e mostrar o trabalho que você realmente produziu.",
+    "antes": "Marcar o portfólio como pronto quando existem apenas roteiros e capas.",
+    "depois": "Abrir três peças reais e o PDF, conferindo apresentação e acesso.",
+    "campos": [
+      "Peças: três arquivos autorais revisados",
+      "Apresentação: PDF com contexto e contato",
+      "Conferência: leitura, endereços e permissões"
+    ],
+    "passos": [
+      "Reúna três peças reais, corrigindo o que estiver pendente.",
+      "Monte o PDF e confira os endereços dos vídeos.",
+      "Abra tudo no celular e registre a revisão final."
+    ],
+    "pronto": "três arquivos e o PDF existem, abrem e têm permissões conferidas",
+    "q": "O PDF mostra capas, mas os endereços dos vídeos não abrem. Qual situação registrar?",
+    "opcoes": [
+      "Concluído porque as capas parecem profissionais",
+      "Pendente de corrigir acesso e conferir os arquivos",
+      "Cliente conquistado porque a apresentação já foi criada"
+    ],
+    "correta": 1,
+    "observacao": "A pasta com imagens ilustra apresentação de trabalho. Ela não substitui as três peças e o PDF exigidos do aluno.",
+    "ex1": "Rita abre os arquivos fora da ferramenta de criação.",
+    "ex2": "Celso encontra cada exemplo sem pedir instruções adicionais.",
+    "calma": "Se faltar uma peça, use o plano de sete dias para produzi-la. Não substitua a entrega real por uma descrição do que pretende fazer.",
+    "confira": "Abrir três peças reais e o PDF, conferindo apresentação e acesso.",
+    "tarefa": "Feche o portfólio com três peças reais",
+    "resumo": [
+      "Peças: três arquivos autorais revisados",
+      "Apresentação: PDF com contexto e contato",
+      "Conferência: leitura, endereços e permissões"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Feche o portfólio com três peças reais\nPeças: três arquivos autorais revisados — <sua decisão>\nApresentação: PDF com contexto e contato — <sua decisão>\nConferência: leitura, endereços e permissões — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "O PDF mostra capas, mas os endereços dos vídeos não abrem. Qual situação registrar?",
+        "Pendente de corrigir acesso e conferir os arquivos"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Abrir três peças reais e o PDF, conferindo apresentação e acesso."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "três arquivos e o PDF existem, abrem e têm permissões conferidas"
+      ]
+    ],
+    "aviso_tempo": "Produza as três peças e o PDF antes desta conferência. A revisão curta não inclui geração, edição e correções."
+  },
+  {
+    "titulo": "Revise a oferta e escolha o próximo passo",
+    "entrega": "conferir a pasta final e registrar uma próxima ação realista",
+    "dor": "Preparar uma oferta é um avanço concreto. Conseguir cliente e receita depende de etapas que ainda precisam acontecer.",
+    "antes": "Afirmar que o negócio está validado apenas porque a proposta foi escrita.",
+    "depois": "Conferir os materiais e escolher uma ação sem inventar cliente ou receita.",
+    "campos": [
+      "Pasta: oferta, cálculo, pacotes e portfólio real",
+      "Preparação: plano, biblioteca e três rascunhos",
+      "Próximo passo: ação, data e limite verificável"
+    ],
+    "passos": [
+      "Abra a lista final do caderno e confira cada arquivo.",
+      "Registre pendências e uma mudança em relação à oferta inicial.",
+      "Defina uma próxima ação com data, sem alegar resultado futuro."
+    ],
+    "pronto": "a pasta foi conferida e existe uma próxima ação com pendências honestas",
+    "q": "Você terminou portfólio e proposta, mas ainda não negociou. O que pode afirmar?",
+    "opcoes": [
+      "Que conquistou um cliente sem ter recebido nenhuma resposta",
+      "Que terá receita garantida porque seguiu todas as aulas",
+      "Que preparou materiais revisados para uma próxima oportunidade"
+    ],
+    "correta": 2,
+    "observacao": "Rita e Celso revisam os materiais no estúdio. A cena ilustra preparação, sem indicar renda ou cliente conquistado.",
+    "ex1": "Rita separa preparação concluída de negociação futura.",
+    "ex2": "Celso entende a proposta e sabe quais condições faltam confirmar.",
+    "calma": "Se ainda faltar um arquivo obrigatório, mantenha essa parte pendente. Você pode retomar sem apagar as decisões já registradas.",
+    "confira": "Conferir os materiais e escolher uma ação sem inventar cliente ou receita.",
+    "tarefa": "Revise a oferta e escolha o próximo passo",
+    "resumo": [
+      "Pasta: oferta, cálculo, pacotes e portfólio real",
+      "Preparação: plano, biblioteca e três rascunhos",
+      "Próximo passo: ação, data e limite verificável"
+    ],
+    "tempo_pratica": "Reserve 10 minutos para este recorte. Produção de peças, pesquisa e negociação exigem tempo adicional.",
+    "molde": "Projeto: Estúdio Linha ou seu projeto\nAula: Revise a oferta e escolha o próximo passo\nPasta: oferta, cálculo, pacotes e portfólio real — <sua decisão>\nPreparação: plano, biblioteca e três rascunhos — <sua decisão>\nPróximo passo: ação, data e limite verificável — <sua decisão>\nEvidência ou arquivo:\nPróxima ação:\nPendência:",
+    "cartoes": [
+      [
+        "Você terminou portfólio e proposta, mas ainda não negociou. O que pode afirmar?",
+        "Que preparou materiais revisados para uma próxima oportunidade"
+      ],
+      [
+        "Qual decisão orienta esta etapa?",
+        "Conferir os materiais e escolher uma ação sem inventar cliente ou receita."
+      ],
+      [
+        "Qual evidência encerra a prática?",
+        "a pasta foi conferida e existe uma próxima ação com pendências honestas"
+      ]
+    ]
+  }
+]

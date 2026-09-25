@@ -1,0 +1,87 @@
+{
+  "id": "monetizacao-v62",
+  "titulo": "Monetização: Portfólio, Ofertas, Preços e Clientes v6.2",
+  "titulo_html": "Mostre o trabalho. <em>Explique o valor.</em>",
+  "curso_curto": "Monetização v6.2",
+  "kicker": "Criação v6.2 · 8 módulos · 24 aulas",
+  "lead": "Organize portfólio, custos e uma proposta clara para serviços criativos. Sem promessa de renda.",
+  "imagem_trilha": "assets/img/trilha.webp",
+  "alt_trilha": "Criadora e artesão organizam uma oferta no estúdio.",
+  "rodape": "Monetização v6.2 · INEMA.CLUB PRO · <a href=\"landing.html\">sobre o curso</a>",
+  "landing": "landing.html",
+  "glossario": true,
+  "modulos": [
+    {
+      "titulo": "Módulo 1 · Oferta que faz sentido",
+      "resumo": "Escolha público, necessidade e escopo.",
+      "aulas": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "titulo": "Módulo 2 · Preço e direitos",
+      "resumo": "Calcule custos e compare condições de uso.",
+      "aulas": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "titulo": "Módulo 3 · Portfólio em sete dias",
+      "resumo": "Organize três peças reais com contexto.",
+      "aulas": [
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "titulo": "Módulo 4 · O olhar de quem contrata",
+      "resumo": "Revise clareza, riscos e apresentação.",
+      "aulas": [
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "titulo": "Módulo 5 · Pacotes e negociação",
+      "resumo": "Compare opções sem esconder trabalho.",
+      "aulas": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "titulo": "Módulo 6 · Abordagem com contexto",
+      "resumo": "Prepare mensagens e acompanhe situações verdadeiras.",
+      "aulas": [
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "titulo": "Módulo 7 · Qualidade e formalização",
+      "resumo": "Confira técnica, condições e dúvidas brasileiras.",
+      "aulas": [
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "titulo": "Módulo 8 · Uma oferta pronta para revisão",
+      "resumo": "Reúna proposta, portfólio e próximo passo.",
+      "aulas": [
+        22,
+        23,
+        24
+      ]
+    }
+  ]
+}

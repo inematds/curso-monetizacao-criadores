@@ -1,0 +1,102 @@
+[
+  [
+    "Apresentação a um ateliê",
+    "Canal comercial que recebe propostas.",
+    "Sou [nome] e produzo [serviço]. Vi [fato verificado] no ateliê. Tenho um estudo próprio sobre [necessidade]. Posso enviar o exemplo para você avaliar?"
+  ],
+  [
+    "Resposta a pedido público",
+    "A empresa publicou que procura esse serviço.",
+    "Vi seu pedido de [entrega]. Trabalho com [escopo] e tenho um exemplo pertinente. Qual é o uso previsto e o prazo desejado?"
+  ],
+  [
+    "Indicação autorizada",
+    "A pessoa citada autorizou a indicação.",
+    "[Pessoa] autorizou mencionar que seu projeto precisa de [serviço]. Sou [nome]. Faz sentido conversarmos sobre quantidade, uso e prazo?"
+  ],
+  [
+    "Contato já conhecido",
+    "Vocês já conversaram de verdade.",
+    "Na nossa conversa sobre [assunto], você comentou [necessidade]. Preparei um estudo autoral relacionado. Gostaria de vê-lo?"
+  ],
+  [
+    "Evento profissional",
+    "Houve conversa real no evento.",
+    "Conversamos em [evento] sobre [tema]. Você pediu que eu retomasse o contato. Posso compartilhar uma referência do meu trabalho?"
+  ],
+  [
+    "Nova coleção",
+    "Lançamento observado, sem supor interesse.",
+    "Vi a apresentação de [coleção]. Produzo vídeos curtos de detalhes de produto. Tenho um estudo identificado como fictício; posso mostrar para você avaliar o formato?"
+  ],
+  [
+    "Resposta a orçamento solicitado",
+    "A pessoa pediu uma estimativa.",
+    "Para estimar [entrega], preciso confirmar quantidade, duração, uso e prazo. Quem aprova as etapas e quais materiais já estão disponíveis?"
+  ],
+  [
+    "Envio solicitado de portfólio",
+    "Houve pedido ou concordância para receber.",
+    "Conforme você pediu, segue [endereço conferido]. Separei três peças relacionadas a [necessidade]. Minha participação e a origem dos materiais estão descritas em cada exemplo."
+  ],
+  [
+    "Esclarecimento de uso",
+    "Conversa de orçamento já em andamento.",
+    "O vídeo será usado apenas no perfil da marca ou também em anúncio pago? Essa diferença afeta permissões e condições da proposta."
+  ],
+  [
+    "Esclarecimento de prazo",
+    "Falta informação para estimar agenda.",
+    "Qual data atende ao projeto? Para confirmar disponibilidade, preciso considerar recebimento dos materiais, aprovação e revisão. Posso verificar após essas definições."
+  ],
+  [
+    "Alternativa de escopo",
+    "Investimento informado não cobre opção inicial.",
+    "Com esse investimento, posso estudar uma entrega menor: [escopo]. Ela retira [itens] e preserva [critérios]. Quer comparar essa alternativa com a proposta inicial?"
+  ],
+  [
+    "Piloto limitado",
+    "Interesse em uma etapa de avaliação.",
+    "Podemos definir um piloto pago de [entrega], com [revisão] e [uso]. Ele não implica uma série automática. Posso detalhar custo e critérios de aprovação?"
+  ],
+  [
+    "Retomada combinada",
+    "Data de retorno acordada anteriormente.",
+    "Combinamos retomar em [data] após [etapa]. Você já tem as informações necessárias para avançarmos? Se o projeto mudou, posso atualizar a situação."
+  ],
+  [
+    "Retomada pontual pertinente",
+    "Avaliar canal e contexto; nunca após recusa.",
+    "Retomo uma única vez a proposta de [assunto] para saber se ainda faz sentido. Se não for o momento, encerro por aqui. Não é necessário justificar."
+  ],
+  [
+    "Pedido de informação faltante",
+    "Proposta em preparação, sem urgência inventada.",
+    "Falta confirmar [informação] para concluir a estimativa. Quando você puder enviar, reviso o escopo. O prazo de produção ainda depende dessa definição."
+  ],
+  [
+    "Recebimento de comentários",
+    "Cliente enviou uma rodada de revisão.",
+    "Recebi os comentários. Vou consolidá-los em [lista] e conferir quais estão no escopo. Antes de executar algo adicional, envio o impacto para aprovação."
+  ],
+  [
+    "Mudança de escopo",
+    "Pedido novo excede condições combinadas.",
+    "A inclusão de [item] acrescenta [trabalho ou direito]. Vou estimar o impacto em prazo e valor. A versão original continua sendo [escopo]."
+  ],
+  [
+    "Recusa por capacidade",
+    "Você não consegue cumprir prazo ou escopo.",
+    "Obrigado por explicar o projeto. Não consigo assumir [condição] com a qualidade necessária neste prazo. Prefiro deixar esse limite claro antes da contratação."
+  ],
+  [
+    "Encerramento respeitoso",
+    "Pessoa recusou ou pediu para parar.",
+    "Entendido. Vou encerrar este contato e respeitar seu pedido. Obrigado pelo retorno."
+  ],
+  [
+    "Entrega e continuidade opcional",
+    "Entrega real concluída e conferida.",
+    "A entrega combinada está em [endereço verificado], com [arquivos]. Confira pelos critérios acordados. Se surgir uma nova necessidade, podemos avaliar um escopo separado."
+  ]
+]

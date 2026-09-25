@@ -1,0 +1,32 @@
+{
+  "calculos": "A/B/C, margem, campos ausentes, negativos, denominador zero e custo zero conferidos",
+  "abordagens": 20,
+  "fichas": 24,
+  "layouts": [
+    {
+      "arquivo": "calculadora.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    },
+    {
+      "arquivo": "caderno.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    },
+    {
+      "arquivo": "abordagens.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    },
+    {
+      "arquivo": "landing.html",
+      "width": 390,
+      "scroll": 390,
+      "images": true
+    }
+  ],
+  "errors": []
+}
