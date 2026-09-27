@@ -7,3 +7,21 @@ Rita, Celso, Estúdio Linha e Bruma são fictícios. Preços públicos são exem
 Ilustrações do recurso nativo do Codex solicitado pelo usuário. A ferramenta não oferece seletor ou confirmação da versão 2.5. Progresso de leitura não comprova execução dos exercícios. Não há videoaulas gravadas ou casos comerciais reais simulados como resultados.
 
 Reconstrução: python3 montar-apoio.py; python3 montar.py.
+
+## English / Español
+
+[English](https://inematds.github.io/curso-monetizacao-criadores/en/) · [Español](https://inematds.github.io/curso-monetizacao-criadores/es/)
+
+Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. Ilustrações originais compartilhadas; progresso e anotações separados por idioma.
+
+Após montar o português, reaplique os catálogos salvos:
+
+```sh
+python3 scripts/i18n_local.py build .
+python3 scripts/verify_i18n.py .
+node scripts/check_i18n_browser.cjs . /tmp/curso-i18n-checks
+```
+
+Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos scripts. A montagem não chama modelos nem redes. Mudanças na fonte PT exigem revisar os catálogos `i18n/`. O motor oficial `assets/curso.js` é preservado; a proteção de importação é gerada em `assets/curso-i18n.js` e nas edições traduzidas.
+
+Evidências em `context/validacao-i18n.md`. Revisões por agentes são simuladas, não testes com alunos reais.

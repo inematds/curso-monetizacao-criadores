@@ -1,3 +1,3 @@
-# Estado
+# Estado atual
 
-Curso revisado para publicação: 24/24 aulas com nota10 na auditoria; motor26/26; leitura simulada de duas personas>=9 sem travas. Calculadora e apoio testados em navegador390. Arquivos de evidência em context e capturas no output. Publicação via git e Pages.
+Conteúdo 6.3.0, formato OSWork v6.2. Edições completas em PT/EN/ES. Tradução com GPT-6 Luna nativo Codex; sem API externa. Catálogos em i18n/, montagem offline em scripts/. Evidências em validacao-i18n.md.
